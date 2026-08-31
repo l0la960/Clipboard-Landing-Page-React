@@ -1,7 +1,7 @@
 function Button (props) {
     const styles = {
     padding: '1.2rem',
-    Maxwidth:'250px',
+    width:'15rem',
     border: 'none',
     borderRadius: '30px',
     boxShadow: props.boxShadow,
