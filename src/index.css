@@ -34,7 +34,7 @@ main {
     align-items: center;
     display: flex;
     flex-direction: column;
-    padding: 150px 77px;
+    padding: 150px 30px;
 }
 
 .hero_container--text {
