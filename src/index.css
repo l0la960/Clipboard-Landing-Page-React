@@ -17,12 +17,13 @@ main {
 
 .hero {
     background-image: url(./assets/bg-header-desktop.png);
-    background-size: cover;
-    max-width: 100%;
+    background-size: contain;
+    background-repeat: no-repeat;
+    width: 100%;
     height: auto;
 }
 
-@media screen and (min-width:320px) and (max-width:481px) {
+@media screen and (min-width:320px) and (max-width:769px) {
     .hero {
         background-image: url(./assets/bg-header-mobile.png);
     }
@@ -53,7 +54,7 @@ main {
     line-height: 40px;
 }
 
-.hero_container-banner {
+.hero_container-logo {
     margin-bottom: 70px;
 }
 

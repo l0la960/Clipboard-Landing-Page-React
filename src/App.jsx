@@ -22,7 +22,7 @@ function App() {
   <section>
   <div className="hero">
   <div className="hero_container">
-  <div className="hero_container-banner">
+  <div className="hero_container-logo">
   <Logo/>
   </div>
   <div className="hero_container--text">
