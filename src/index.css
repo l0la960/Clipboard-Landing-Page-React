@@ -63,6 +63,17 @@ main {
     gap: 15px;
 }
 
+.hero-btns > button:hover, .container_last-section-btns > button:hover {
+opacity: 0.5;
+}
+
+.hero-btns > button:focus-visible, .container_last-section-btns > button:focus-visible, .footer-link:focus-visible, .social-link:focus-visible {
+outline: 3px solid black;
+}
+
+
+
+
 @media screen and (min-width:300px) and (max-width:769px) {
     .hero-btns {
         flex-direction: column;
@@ -188,12 +199,14 @@ main {
 @media screen and (min-width:300px) and (max-width:769px) {
     .container_main-content-text-one {
         text-align: center;
+        padding: 1rem;
     }
 }
 
 @media screen and (min-width:769px) and (max-width:1024px) {
  .container_main-content-text-one {
         text-align: center;
+        padding: 1rem;
 }
 }
 
@@ -222,6 +235,13 @@ main {
 
 
 @media screen and (min-width:300px) and (max-width:769px) {
+    .container_third-text {
+        padding: 2rem;
+    }
+}
+
+
+@media screen and (min-width:769px) and (max-width:1024px) {
     .container_third-text {
         padding: 2rem;
     }
