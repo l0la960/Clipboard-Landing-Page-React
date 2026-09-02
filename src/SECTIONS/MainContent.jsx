@@ -1,8 +1,6 @@
-import Text from "./Text";
-import Button from "./Button";
-import computerImage from './assets/image-computer.png'
-
-
+import Text from "../REUSABLE COMPONENTS/Text";
+import Button from "../REUSABLE COMPONENTS/Button";
+import computerImage from '../assets/image-computer.png'
 
 function MainContent () {
 

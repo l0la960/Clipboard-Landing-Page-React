@@ -1,6 +1,6 @@
-import Text from "./Text";
-import Button from "./Button";
-import Logo from "./Logo";
+import Text from "../REUSABLE COMPONENTS/Text";
+import Button from "../REUSABLE COMPONENTS/Button";
+import Logo from "../REUSABLE COMPONENTS/Logo";
 
 function Hero () {
 

@@ -1,5 +1,5 @@
-import Text from "./Text";
-import Button from "./Button";
+import Text from "../REUSABLE COMPONENTS/Text";
+import Button from "../REUSABLE COMPONENTS/Button";
 
 
 function LastSection () {

@@ -1,13 +1,10 @@
-import Text from "./Text"
-import Logo from "./Logo"
-import Button from "./Button"
-import Footer from "./Footer"
-import Hero from "./Hero"
-import MainContent from "./MainContent"
-import Features from "./Features"
-import ThirdSection from "./ThirdSection"
-import PartnerLogos from "./PartnerLogos"
-import LastSection from "./LastSection"
+import Footer from "./SECTIONS/Footer"
+import Hero from "./SECTIONS/Hero"
+import MainContent from "./SECTIONS/MainContent"
+import Features from "./SECTIONS/Features"
+import ThirdSection from "./SECTIONS/ThirdSection"
+import PartnerLogos from "./SECTIONS/PartnerLogos"
+import LastSection from "./SECTIONS/LastSection"
 
 
 
@@ -22,8 +19,6 @@ function App() {
   <Features/>
   <PartnerLogos/>
   <LastSection/>
-  
-  
   <Footer/>
   </main>
 

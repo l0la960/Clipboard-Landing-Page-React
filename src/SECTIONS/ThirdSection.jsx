@@ -1,5 +1,5 @@
-import Text from "./Text";
-import devicesImage from './assets/image-devices.png'
+import Text from "../REUSABLE COMPONENTS/Text";
+import devicesImage from '../assets/image-devices.png'
 
 function ThirdSection () {
 

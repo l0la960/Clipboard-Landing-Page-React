@@ -1,7 +1,7 @@
-import Text from "./Text";
-import blacklistImage from './assets/icon-blacklist.svg'
-import snippetsImage from './assets/icon-text.svg'
-import previewImage from './assets/icon-preview.svg'
+import Text from "../REUSABLE COMPONENTS/Text";
+import blacklistImage from '../assets/icon-blacklist.svg'
+import snippetsImage from '../assets/icon-text.svg'
+import previewImage from '../assets/icon-preview.svg'
 
 
 function Features () {
