@@ -8,7 +8,6 @@ import LastSection from "./SECTIONS/LastSection"
 
 
 
-
 function App() {
  
   return (
@@ -21,8 +20,6 @@ function App() {
   <LastSection/>
   <Footer/>
   </main>
-
-  
   )
 }
 

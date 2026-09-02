@@ -8,7 +8,7 @@ import vectorgraphicsLogo from '../assets/logo-vector-graphics.png'
 
 function PartnerLogos() {
 return (
-<section>
+<section className='logos-section'>
   <div className="Container_logos-section">
 
   <div className="container_logos-container">
