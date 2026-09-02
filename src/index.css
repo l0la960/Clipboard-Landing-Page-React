@@ -85,7 +85,7 @@ outline: 3px solid black;
 
 
 .container_main-content-heading,
-.container_third-text,
+.container_third-section-text,
 .container_features-content-heading,
 .container_last-section {
     text-align: center;
@@ -94,7 +94,7 @@ outline: 3px solid black;
 }
 
 .container_main-content-heading,
-.container_third-text {
+.container_third-section-text {
     margin-bottom: 140px
 }
 
@@ -235,14 +235,14 @@ outline: 3px solid black;
 
 
 @media screen and (min-width:300px) and (max-width:769px) {
-    .container_third-text {
+    .container_third-section-text {
         padding: 2rem;
     }
 }
 
 
 @media screen and (min-width:769px) and (max-width:1024px) {
-    .container_third-text {
+    .container_third-section-text {
         padding: 2rem;
     }
 }
