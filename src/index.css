@@ -152,10 +152,12 @@ outline: 3px solid black;
 }
 
 
+
 @media screen and (min-width:1600px){
-   .computer-image {
-     transform: translateX(-30px); 
-}
+    .container_main-content-image-text-group {
+        flex-direction: column;
+        gap: 80px;
+    }
 }
 
 
@@ -207,6 +209,13 @@ outline: 3px solid black;
  .container_main-content-text-one {
         text-align: center;
         padding: 1rem;
+}
+}
+
+
+@media screen and (min-width:1600px) {
+ .container_main-content-text-one {
+        text-align: center;
 }
 }
 
